@@ -60,8 +60,12 @@ Visualize the final stylized image alongside the content and style images.
 <img width="757" alt="content" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/b8d4da82-ea45-4f23-8d59-9be2935ca53d">
 
 
+
+
 ### Style Image
-<img width="736" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/310d64a7-6fcf-4aa9-8e26-c0a67b6432be">
+
+
+<img width="700" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/310d64a7-6fcf-4aa9-8e26-c0a67b6432be">
 
 
 ### Result Image
