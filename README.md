@@ -57,16 +57,16 @@ Visualize the final stylized image alongside the content and style images.
 ## Results
 
 ### Content Image
-![Content Image](<img width="757" alt="content" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/b8d4da82-ea45-4f23-8d59-9be2935ca53d">
-)
+![Content Image]<img width="757" alt="content" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/b8d4da82-ea45-4f23-8d59-9be2935ca53d">
+
 
 ### Style Image
-![Style Image](<img width="736" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/9d777828-b0cb-462d-b8ea-0acae7598588">
-)
+![Style Image]<img width="736" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/9d777828-b0cb-462d-b8ea-0acae7598588">
+
 
 ### Result Image
-![Result Image](<img width="329" alt="Screenshot 2024-06-21 at 12 29 51 AM" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/8def2882-866f-4f20-a2a3-dee6589ee7c7">
-)
+![Result Image]<img width="329" alt="Screenshot 2024-06-21 at 12 29 51 AM" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/8def2882-866f-4f20-a2a3-dee6589ee7c7">
+
 
 Feel free to replace the placeholders with your actual images and paths.
 
