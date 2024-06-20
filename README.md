@@ -72,7 +72,6 @@ Visualize the final stylized image alongside the content and style images.
 <img width="736" alt="Screenshot 2024-06-21 at 12 29 51 AM" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/8def2882-866f-4f20-a2a3-dee6589ee7c7">
 
 
-Feel free to replace the placeholders with your actual images and paths.
 
 ## License
 
