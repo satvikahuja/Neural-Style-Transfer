@@ -61,7 +61,7 @@ Visualize the final stylized image alongside the content and style images.
 
 
 ### Style Image
-<img width="736" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/9d777828-b0cb-462d-b8ea-0acae7598588">
+<img width="736" alt="style" src="https://github.com/satvikahuja/Neural-Style-Transfer/assets/109898261/310d64a7-6fcf-4aa9-8e26-c0a67b6432be">
 
 
 ### Result Image
